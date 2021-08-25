@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=108ee9&bg_color=ffffff&hide_title=false" />
 
 #### Hello World👏
 
@@ -6,4 +7,3 @@
 
 🔗 http://sayhub.me
 
-<img align="bottom" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=108ee9&bg_color=ffffff&hide_title=false" />
