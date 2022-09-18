@@ -4,5 +4,5 @@
 - 👋 Hi, I’m @liruifengv.
 - 👀 I write code in JavaScript and Rust.
 
-🔗 http://sayhub.me
+🔗 [http://sayhub.me](http://180.76.190.20/)
 
