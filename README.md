@@ -14,7 +14,7 @@
 目前是一名前端工程师，居住地天津。17 年入行，目前工作于前端，向往于 Rust。现在正在尝试参与 [Deno](https://github.com/denoland) 之中（修一些小 bug，目前有几个已合并的 PR）。
 
 ### 我的技术栈有
-- 语言：JavaScript(Node、Deno)、Rust
+- 语言：HTML、CSS、JavaScript(Node、Deno)、Rust
 - 前端：Vue、React
 - 后端：Actix、Express
 - 客户端跨平台：Electron
