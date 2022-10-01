@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=42b973&text_color=42b973&bg_color=0f1217&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=42b973&text_color=42b973&bg_color=0f1217&hide_title=false&border_color=0f1217&title_color=42b973" />
 
 #### Hello World👏
 - 👋 Hi, I’m @liruifengv.
