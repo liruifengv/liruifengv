@@ -1,5 +1,11 @@
 
 
+#### Hello World👏
+## 我是 lirufiengv(李瑞丰)
+
+目前是一名前端工程师，居住地天津。17 年入行，目前工作于前端，向往于 Rust。现在正在尝试参与 [Deno](https://github.com/denoland) 之中（修一些小 bug，目前有几个已合并的 PR）。
+
+
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
 </a>
@@ -8,10 +14,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
-#### Hello World👏
-## 我是 lirufiengv(李瑞丰)
-
-目前是一名前端工程师，居住地天津。17 年入行，目前工作于前端，向往于 Rust。现在正在尝试参与 [Deno](https://github.com/denoland) 之中（修一些小 bug，目前有几个已合并的 PR）。
 
 ### 我的技术栈有
 - 语言：HTML、CSS、JavaScript(Node、Deno)、Rust
