@@ -4,6 +4,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true#gh-light-mode-only" />
 </a>
 
+<a href="https://github.com/liruifengv#gh-dark-mode-only">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
+</a>
+
 #### Hello World👏
 - 👋 Hi, I’m @liruifengv.
 - 👀 I write code in JavaScript and Rust.
