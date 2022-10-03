@@ -3,7 +3,7 @@
 #### Hello World👏
 ## 我是 lirufiengv(李瑞丰)
 
-目前是一名前端工程师，居住地天津。17 年入行，目前工作于前端，向往于 Rust。现在正在尝试参与 [Deno](https://github.com/denoland) 之中（修一些小 bug，目前有几个已合并的 PR）。
+目前是一名前端工程师，居住地天津。17 年入行，目前工作于前端，向往于 Rust。现在正在尝试参与 [Deno](https://github.com/denoland) 之中（修一些小 bug，目前有几个已合并的 [PR](https://github.com/denoland/deno/issues?q=author%3Aliruifengv) ）。
 
 
 <a href="https://github.com/liruifengv#gh-light-mode-only">
