@@ -17,7 +17,7 @@
 
 ### 我的技术栈有
 - 语言：HTML、CSS、JavaScript(Node、Deno)、Rust
-- 前端：Vue、React
+- 前端：Vue、React、Astro、Next.js
 - 后端：Actix、Express
 - 客户端跨平台：Electron
 
