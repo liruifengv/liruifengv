@@ -32,6 +32,7 @@
 ### 我的开源
 - [sayhub](https://github.com/liruifengv/sayhub) 我的博客站点的前端部分，使用 React + Vite 开发。
 - [sayhub-server](https://github.com/liruifengv/sayhub-server) 我的博客站点的 server 部分，使用 Rust(Actix-web) 开发。
+- [posts-kit](https://github.com/liruifengv/posts-kit) 使用 Deno 开发的命令行程序，用于在终端交互并发布文章到博客服务器。
 - [promise-modal](https://github.com/liruifengv/promise-modal) 一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库，改变弹窗组件的开发方式。
 - [create-rust](https://github.com/liruifengv/create-rust) 一个 npm 脚手架，使用 `npm init rust` 来快速创建 Rust 项目。
 - [md-parser](https://github.com/liruifengv/md-parser) 使用 Rust 开发的 Markdown 解析器，开发中，欢迎参与贡献。
@@ -43,7 +44,7 @@
 - 个站： http://sayhub.me
 - 知乎：https://www.zhihu.com/people/liruifengv
 
-#### 联系方式
+### 联系方式
 - 邮箱：liruifeng1024@gmail.com
 
 ## 很高兴见到你，欢迎来玩~
