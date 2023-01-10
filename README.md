@@ -42,6 +42,7 @@
 ### 我的博客
 - 个站： http://sayhub.me
 - 知乎：https://www.zhihu.com/people/liruifengv
+- 掘金：https://juejin.cn/user/237150239994471
 
 ### 联系方式
 - 邮箱：liruifeng1024@gmail.com
