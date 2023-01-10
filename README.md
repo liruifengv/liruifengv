@@ -46,6 +46,9 @@
 ### 联系方式
 - 邮箱：liruifeng1024@gmail.com
 
+### 访问量： 
+![](https://profile-counter.glitch.me/liruifengv/count.svg)
+
 ## 很高兴见到你，欢迎来玩~
 
 
