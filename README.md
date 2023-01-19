@@ -3,7 +3,7 @@
 #### Hello World👏
 ## 我是李瑞丰
 
-目前是一名前端工程师，居住地天津。17 年入行，热爱技术。
+目前是一名前端工程师，居住工作在天津。17 年入行，热爱技术。
 - 现在正在尝试参与 [Deno](https://github.com/denoland/deno/issues?q=author%3Aliruifengv) 之中。
 - 探索 Rust 在前端领域的可行之处。
 
