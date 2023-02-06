@@ -3,9 +3,11 @@
 #### Hello World👏
 ## 我是李瑞丰
 
-目前是一名前端工程师，居住工作在天津。17 年入行，热爱技术。
-- 现在正在尝试参与 [Deno](https://github.com/denoland/deno/issues?q=author%3Aliruifengv) 之中。
+我是一名前端工程师，居住工作在天津。17 年入行，热爱前端，热爱技术，热爱开源。
+- [Deno](https://github.com/denoland/deno/issues?q=author%3Aliruifengv) 参与代码贡献。
+- [Astro](https://github.com/withastro) 参与代码贡献，中文文档维护翻译。
 - 探索 Rust 在前端领域的可行之处。
+
 
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
@@ -15,22 +17,20 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
+[![@liruifengv Astro contributions](https://astro.badg.es/v1/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
 
-### 我的技术栈有
-- 编程语言：HTML、CSS、JavaScript(Node、Deno)、Rust
-- 前端框架：Vue、React、Astro、Next.js
-- 后端框架：Actix、Express
-- 客户端跨平台：Electron
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") 
+![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS") 
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript") 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+![](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React")
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/ASTRO-blueviolet?style=for-the-badge)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ### 我的博客
-- [个人网站](https://sayhub.me)
+- [SayHub.me](https://sayhub.me)
 - [知乎](https://www.zhihu.com/people/liruifengv)
 - [掘金](https://juejin.cn/user/237150239994471)
 
