@@ -32,6 +32,9 @@
 - [SayHub.me](https://sayhub.me)
 - [知乎](https://www.zhihu.com/people/liruifengv)
 - [掘金](https://juejin.cn/user/237150239994471)
+- 微信公众号: SayHub
+
+![](https://images.sayhub.me/blog/qrcode.png)
 
 ### 联系方式
 - 邮箱：liruifeng1024@gmail.com
