@@ -3,11 +3,7 @@
 #### Hello World👏
 ## 我是李瑞丰
 
-我是一名前端工程师，居住工作在 中国天津。2017 年入行，热爱前端，热爱技术，热爱开源。
-- [Astro](https://github.com/withastro) 参与代码贡献，中文文档维护翻译。
-- [Deno](https://github.com/denoland/deno/issues?q=author%3Aliruifengv) 参与代码贡献。
-- 探索 Rust 在前端领域的可行之处。
-
+我是一名前端工程师、开源爱好者、[Deno](https://github.com/denoland) 贡献者、[Astro](https://github.com/withastro) 贡献者、Astro 中文文档译者。
 
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
