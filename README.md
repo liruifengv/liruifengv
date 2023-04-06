@@ -1,8 +1,8 @@
 ## Hello World🎉
 
-I am 李瑞丰. A front-end developer.
+I'm a front-end engineer. Use JS, Rust.
 
-Currently a contributor to [Astro](https://github.com/withastro).
+Currently a contributor to [Astro](https://github.com/withastro). I am translating Astro Chinese doc.
 
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img align="right" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
