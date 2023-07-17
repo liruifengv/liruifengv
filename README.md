@@ -24,9 +24,13 @@ Currently a contributor to [Astro](https://github.com/withastro). I am translati
 ![Astro](https://img.shields.io/badge/ASTRO-blueviolet?style=for-the-badge)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white&color=39495c)
 
+<a href="https://github.com/liruifengv#gh-light-mode-only">
+  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
+</a>
 
-<img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8">
-
+<a href="https://github.com/liruifengv#gh-dark-mode-only">
+  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
+</a>
 
 ### My Blog
 - [SayHub.me](https://sayhub.me)
