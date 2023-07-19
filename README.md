@@ -35,9 +35,12 @@
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
 </a>
 -->
-<div style="display: flex;">
-  <div style="display: inline-block; width: 50%;" width="50%">
-  <h2>My Blog</h2>
+
+<table width="960px">
+<tr>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ My Blog
   <ul>
     <li><a href="https://sayhub.me">SayHub.me</a></li>
     <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
@@ -45,8 +48,20 @@
     <li>微信公众号: SayHub</li>
     <img src="https://images.sayhub.me/blog/qrcode.png" />
   </ul>
-</div>
+</td>
+<td valign="top" width="50%">
 
-<div>
+#### 🪂 My Project
+
+* [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
+使用 Astro 构建的博客模板，快速搭建拥有漂亮主题的个人博客
+* [create-lint-config](https://github.com/liruifengv/create-lint-config) An easy way to create all lint configurations such as ESLint、Prettier.
+* [promise-modal](https://github.com/liruifengv/promise-modal) promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
+* [md-parser](https://github.com/liruifengv/md-parser) Markdown parser written in Rust. - 使用 Rust 开发的 Markdown 解析器。
+
+</td>
+</tr>
+
+</table>
 
 
