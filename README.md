@@ -25,6 +25,7 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
+<!--
 ### Languages
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
@@ -33,13 +34,19 @@
 <a href="https://github.com/liruifengv#gh-dark-mode-only">
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
 </a>
+-->
+<div style="display: flex;">
+  <div style="display: inline-block; width: 50%;" width="50%">
+  <h2>My Blog</h2>
+  <ul>
+    <li><a href="https://sayhub.me">SayHub.me</a></li>
+    <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
+    <li><a href="https://juejin.cn/user/237150239994471">掘金</a></li>
+    <li>微信公众号: SayHub</li>
+    <img src="https://images.sayhub.me/blog/qrcode.png" />
+  </ul>
+</div>
 
-### My Blog
-- [SayHub.me](https://sayhub.me)
-- [知乎](https://www.zhihu.com/people/liruifengv)
-- [掘金](https://juejin.cn/user/237150239994471)
-- 微信公众号: SayHub
-
-![](https://images.sayhub.me/blog/qrcode.png)
+<div>
 
 
