@@ -54,10 +54,17 @@
 #### 🪂 My Project
 
 * [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
-使用 Astro 构建的博客模板，快速搭建拥有漂亮主题的个人博客
-* [create-lint-config](https://github.com/liruifengv/create-lint-config) An easy way to create all lint configurations such as ESLint、Prettier.
-* [promise-modal](https://github.com/liruifengv/promise-modal) promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
-* [md-parser](https://github.com/liruifengv/md-parser) Markdown parser written in Rust. - 使用 Rust 开发的 Markdown 解析器。
+  <br/>
+  使用 Astro 构建的博客模板，快速搭建拥有漂亮主题的个人博客
+* [create-lint-config](https://github.com/liruifengv/create-lint-config)
+  <br/>
+  An easy way to create all lint configurations such as ESLint、Prettier.
+* [promise-modal](https://github.com/liruifengv/promise-modal)
+  <br/>
+  promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
+* [md-parser](https://github.com/liruifengv/md-parser)
+  <br/>
+  Markdown parser developed using Rust. / 使用 Rust 开发的 Markdown 解析器。
 
 </td>
 </tr>
