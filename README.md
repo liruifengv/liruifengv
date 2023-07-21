@@ -1,11 +1,11 @@
 ## Hello World🎉 It's liruifengv! 👋
 
-- I'm a front-end engineer.
-- Use JS, Rust. Currently learning C/C++.
-- Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). 
-- I am translating [Astro Chinese doc](https://docs.astro.build/zh-cn/getting-started/).
+- 👨 I'm a front-end engineer.
+- 👨‍💻 Use JS, Rust. Currently learning C/C++.
+- 🏆 Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). 
+- 🚀 I am translating [Astro Chinese doc](https://docs.astro.build/zh-cn/getting-started/).
 
-### My Skills
+### 🛠 My Skills
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS") 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript") 
@@ -15,7 +15,7 @@
 ![Astro](https://img.shields.io/badge/ASTRO-blueviolet?style=for-the-badge)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white&color=39495c)
 
-### Badges
+### 🎖 Badges
 
 [![@liruifengv Astro contributions](https://astro.badg.es/v1/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
 <a href="https://github.com/liruifengv#gh-light-mode-only">
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
-#### 🪂 My Projects
+### ⏳ My Projects
 
 * [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
   <br/>
@@ -40,7 +40,7 @@
   <br/>
   Markdown parser developed using Rust. / 使用 Rust 开发的 Markdown 解析器。
 
-#### 🤾‍♂️ My Blog
+### 📖 My Blog
   <ul>
     <li><a href="https://sayhub.me">SayHub.me</a></li>
     <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
@@ -51,7 +51,7 @@
 
 
 
-### Languages
+### ⌨ Languages
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
 </a>
@@ -60,7 +60,7 @@
   <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
 </a>
 
-### Profile Counter
+### 🎬 Profile Counter
 ![](https://profile-counter.glitch.me/liruifengv/count.svg)
 
 
