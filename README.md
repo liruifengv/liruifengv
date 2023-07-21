@@ -25,17 +25,6 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
-<!--
-### Languages
-<a href="https://github.com/liruifengv#gh-light-mode-only">
-  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
-</a>
-
-<a href="https://github.com/liruifengv#gh-dark-mode-only">
-  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
-</a>
--->
-
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
@@ -51,7 +40,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🪂 My Project
+#### 🪂 My Projects
 
 * [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
   <br/>
@@ -70,5 +59,19 @@
 </tr>
 
 </table>
+
+
+### Languages
+<a href="https://github.com/liruifengv#gh-light-mode-only">
+  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
+</a>
+
+<a href="https://github.com/liruifengv#gh-dark-mode-only">
+  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
+</a>
+
+### Profile Counter
+![](https://profile-counter.glitch.me/liruifengv/count.svg)
+
 
 
