@@ -25,21 +25,6 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ My Blog
-  <ul>
-    <li><a href="https://sayhub.me">SayHub.me</a></li>
-    <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
-    <li><a href="https://juejin.cn/user/237150239994471">掘金</a></li>
-    <li>微信公众号: SayHub</li>
-    <img src="https://images.sayhub.me/blog/qrcode.png" />
-  </ul>
-</td>
-<td valign="top" width="50%">
-
 #### 🪂 My Projects
 
 * [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
@@ -55,10 +40,15 @@
   <br/>
   Markdown parser developed using Rust. / 使用 Rust 开发的 Markdown 解析器。
 
-</td>
-</tr>
+#### 🤾‍♂️ My Blog
+  <ul>
+    <li><a href="https://sayhub.me">SayHub.me</a></li>
+    <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
+    <li><a href="https://juejin.cn/user/237150239994471">掘金</a></li>
+    <li>微信公众号: SayHub</li>
+    <img src="https://images.sayhub.me/blog/qrcode.png" />
+  </ul>
 
-</table>
 
 
 ### Languages
