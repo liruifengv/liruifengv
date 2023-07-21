@@ -39,6 +39,9 @@
 * [md-parser](https://github.com/liruifengv/md-parser)
   <br/>
   Markdown parser developed using Rust. / 使用 Rust 开发的 Markdown 解析器。
+* [todo-rs](https://github.com/liruifengv/todo-rs)
+  <br/>
+  A minimalist CLI todo list write by Rust.
 
 ### 📖 My Blog
   <ul>
