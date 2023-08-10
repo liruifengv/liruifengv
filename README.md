@@ -25,24 +25,6 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 
-### ⏳ My Projects
-
-* [sayhub-blog-template](https://github.com/liruifengv/sayhub-blog-template) 
-  <br/>
-  使用 Astro 构建的博客模板，快速搭建拥有漂亮主题的个人博客
-* [create-lint-config](https://github.com/liruifengv/create-lint-config)
-  <br/>
-  An easy way to create all lint configurations such as ESLint、Prettier.
-* [promise-modal](https://github.com/liruifengv/promise-modal)
-  <br/>
-  promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
-* [md-parser](https://github.com/liruifengv/md-parser)
-  <br/>
-  Markdown parser developed using Rust. / 使用 Rust 开发的 Markdown 解析器。
-* [todo-rs](https://github.com/liruifengv/todo-rs)
-  <br/>
-  A minimalist CLI todo list write by Rust.
-
 ### 📖 My Blog
   <ul>
     <li><a href="https://sayhub.me">SayHub.me</a></li>
