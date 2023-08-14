@@ -30,6 +30,7 @@
     <li><a href="https://sayhub.me">SayHub.me</a></li>
     <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
     <li><a href="https://juejin.cn/user/237150239994471">掘金</a></li>
+    <li><a href="https://twitter.com/liruifengv">Twitter / X</a></li>
     <li>微信公众号: SayHub</li>
     <img src="https://images.sayhub.me/blog/qrcode.png" />
   </ul>
