@@ -26,6 +26,7 @@
 </a>
 
 ### 📖 My Blog
+> You can follow me on any of the following platforms:
   <ul>
     <li><a href="https://sayhub.me">SayHub.me</a></li>
     <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
