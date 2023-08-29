@@ -7,11 +7,11 @@
 
 ### 🛠 My Skills
 
-<a href="https://skillicons.dev#gh-light-mode-only">
+<a href="https://sayhub.me#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=light" />
 </a>
 
-<a href="https://skillicons.dev#gh-dark-mode-only">
+<a href="https://sayhub.me#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=dark" />
 </a>
 
@@ -27,14 +27,12 @@
 
 ### 📖 My Blog
 > You can follow me on any of the following platforms:
-  <ul>
-    <li><a href="https://sayhub.me">SayHub.me</a></li>
-    <li><a href="https://www.zhihu.com/people/liruifengv">知乎</a></li>
-    <li><a href="https://juejin.cn/user/237150239994471">掘金</a></li>
-    <li><a href="https://twitter.com/liruifengv">Twitter / X</a></li>
-    <li>微信公众号: SayHub</li>
-    <img src="https://images.sayhub.me/blog/qrcode.png" />
-  </ul>
+- <a href="https://sayhub.me">SayHub.me</a>
+- <a href="https://www.zhihu.com/people/liruifengv">知乎</a>
+- <a href="https://juejin.cn/user/237150239994471">掘金</a>
+- <a href="https://twitter.com/liruifengv">Twitter / X</a>
+- 微信公众号: SayHub
+<img src="https://images.sayhub.me/blog/qrcode.png" />
 
 
 
