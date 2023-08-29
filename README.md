@@ -6,14 +6,10 @@
 - 🚀 I am translating [Astro Chinese doc](https://docs.astro.build/zh-cn/getting-started/).
 
 ### 🛠 My Skills
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white "HTML") 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS") 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "JavaScript") 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&color=39495c)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB "React")
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Astro](https://img.shields.io/badge/ASTRO-blueviolet?style=for-the-badge)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white&color=39495c)
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel" />
+</a>
 
 ### 🎖 Badges
 
