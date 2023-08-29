@@ -7,8 +7,12 @@
 
 ### 🛠 My Skills
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel" />
+<a href="https://skillicons.dev#gh-light-mode-only">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=light" />
+</a>
+
+<a href="https://skillicons.dev#gh-dark-mode-only">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=dark" />
 </a>
 
 ### 🎖 Badges
