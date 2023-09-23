@@ -17,7 +17,7 @@
 
 ### 🎖 Badges
 
-[![@liruifengv Astro contributions](https://astro.badg.es/v1/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
+[![@liruifengv Astro contributions](https://astro.badg.es/v2/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
 </a>
