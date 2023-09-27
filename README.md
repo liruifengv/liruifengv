@@ -17,14 +17,13 @@
 
 ### 🎖 Badges
 
+[![@liruifengv Astro contributions](https://astro.badg.es/v2/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
 <a href="https://github.com/liruifengv#gh-dark-mode-only">
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/liruifengv#gh-light-mode-only">
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
 </a>
-
-[![@liruifengv Astro contributions](https://astro.badg.es/v2/contributor/liruifengv.svg)](https://astro.badg.es/v1/contributor/liruifengv/)
 
 ### 📖 My Blog
 > You can follow me on any of the following platforms:
@@ -33,9 +32,6 @@
 - <a href="https://juejin.cn/user/237150239994471">掘金</a>
 - <a href="https://twitter.com/liruifengv">Twitter / X</a>
 - 微信公众号: SayHub
-<img src="https://images.sayhub.me/blog/qrcode.png" />
-
-
 
 ### ⌨ Languages
 <a href="https://github.com/liruifengv#gh-light-mode-only">
