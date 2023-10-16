@@ -29,6 +29,7 @@
 
 ### 📖 My Blog
 > You can follow me on any of the following platforms:
+- <a href="https://liruifengv.com">liruifengv.com</a>
 - <a href="https://www.zhihu.com/people/liruifengv">知乎</a>
 - <a href="https://juejin.cn/user/237150239994471">掘金</a>
 - <a href="https://twitter.com/liruifengv">Twitter / X</a>
