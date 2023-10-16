@@ -34,6 +34,8 @@
 - <a href="https://juejin.cn/user/237150239994471">掘金</a>
 - <a href="https://twitter.com/liruifengv">Twitter / X</a>
 - 微信公众号: SayHub
+  
+![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)
 
 ### ⌨ Languages
 <a href="https://github.com/liruifengv#gh-light-mode-only">
