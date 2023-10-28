@@ -8,11 +8,11 @@
 ### 🛠 My Skills
 
 <a href="https://sayhub.me#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,go,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github&theme=light" />
 </a>
 
 <a href="https://sayhub.me#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,go,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github&theme=dark" />
 </a>
 
 ### 🎖 Badges
