@@ -1,7 +1,7 @@
 ## Hello World🎉 It's liruifengv! 👋
 
 - 👨 I'm a front-end engineer.
-- 👨‍💻 Use JS, Rust, Golang. Currently learning C/C++.
+- 👨‍💻 Use JS, Rust, Go. Currently learning C/C++.
 - 🏆 Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). 
 - 🚀 I am translating [Astro Chinese doc](https://docs.astro.build/zh-cn/getting-started/).
 
