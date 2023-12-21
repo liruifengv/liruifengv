@@ -48,5 +48,5 @@
 ### 🎬 Profile Counter
 ![](https://profile-counter.glitch.me/liruifengv/count.svg)
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
