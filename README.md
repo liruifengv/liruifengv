@@ -29,13 +29,12 @@
 
 ### 📖 My Blog
 > You can follow me on any of the following platforms:
-- <a href="https://liruifengv.com">liruifengv.com</a>
-- <a href="https://www.zhihu.com/people/liruifengv">知乎</a>
-- <a href="https://juejin.cn/user/237150239994471">掘金</a>
-- <a href="https://twitter.com/liruifengv">Twitter / X</a>
-- 微信公众号: SayHub
-  
-![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)
+
+
+| Platform                                       | Wechat                                              |
+| ---------------------------------------------- | ------------------------------------------------- |
+| <ul> <li> [liruifengv.com](https://liruifengv.com)</li> <li> [知乎](https://www.zhihu.com/people/liruifengv) </li><li> [掘金](https://juejin.cn/user/237150239994471) </li> <li> [Twitter / X](https://twitter.com/liruifengv)</li> </ul>    |  ![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)   |
+
 
 ### ⌨ Languages
 <a href="https://github.com/liruifengv#gh-light-mode-only">
