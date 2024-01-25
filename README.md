@@ -17,7 +17,7 @@
 
 ### 🎖 Badges
 
-<a href="https://astro.badg.es/contributor/liruifengv/">
+<a target="__blank" href="https://astro.badg.es/contributor/liruifengv/">
   <img src="https://astro.badg.es/v2/contributor/liruifengv.svg" alt="@liruifengv Astro contributions" width="320" height="195">
 </a>
 <a href="https://github.com/liruifengv#gh-dark-mode-only">
