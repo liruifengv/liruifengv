@@ -21,8 +21,7 @@
   <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
 </a>
 
-### 📖 My Blog
-> You can follow me on any of the following platforms:
+### You can follow me on any of the following platforms:
 
 | Platform                                       | Wechat                                              |
 | ---------------------------------------------- | ------------------------------------------------- |
