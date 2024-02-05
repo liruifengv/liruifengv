@@ -1,19 +1,13 @@
-## Hello World🎉 It's liruifengv! 👋
-
-- 👨 I'm a front-end engineer.
-- 👨‍💻 Use JS, Rust, Go. Currently learning C/C++.
-- 🏆 Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). 
-- 🚀 I am translating [Astro Chinese doc](https://docs.astro.build/zh-cn/getting-started/).
-
-### 🛠 My Skills
+## Hello World🎉 It's liruifengv! 👋 👨‍💻 I'm a front-end engineer. Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). I am translating [Astro Chinese docs](https://docs.astro.build/zh-cn/getting-started/).
 
 <a href="https://sayhub.me#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,go,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,deno,nodejs,react,vue,astro&theme=light" />
 </a>
 
 <a href="https://sayhub.me#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,go,c,deno,nodejs,react,vue,astro,svelte,nextjs,tauri,electron,express,actix,tailwind,vite,webpack,rollupjs,git,linux,md,vim,vscode,postgres,nginx,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,go,deno,nodejs,react,vue,astro&theme=dark" />
 </a>
+
 
 ### 🎖 Badges
 
@@ -30,23 +24,12 @@
 ### 📖 My Blog
 > You can follow me on any of the following platforms:
 
-
 | Platform                                       | Wechat                                              |
 | ---------------------------------------------- | ------------------------------------------------- |
 | <ul> <li> [liruifengv.com](https://liruifengv.com)</li> <li> [知乎](https://www.zhihu.com/people/liruifengv) </li><li> [掘金](https://juejin.cn/user/237150239994471) </li> <li> [Twitter / X](https://twitter.com/liruifengv)</li> </ul>    |  ![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)   |
 
 
-### ⌨ Languages
-<a href="https://github.com/liruifengv#gh-light-mode-only">
-  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only"">
-</a>
-
-<a href="https://github.com/liruifengv#gh-dark-mode-only">
-  <img height="195" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=liruifengv&layout=compact&langs_count=8&bg_color=233140&border_color=42b973&theme=vue-dark#gh-dark-mode-only"">
-</a>
-
 ### 🎬 Profile Counter
 ![](https://profile-counter.glitch.me/liruifengv/count.svg)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
