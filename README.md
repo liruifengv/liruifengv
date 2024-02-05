@@ -1,11 +1,11 @@
 ## Hello World🎉 
 ## It's liruifengv! 👋  I'm a front-end engineer👨‍💻. Currently a contributor to [Astro](https://github.com/withastro) and [Deno](https://github.com/denoland). I am translating [Astro Chinese docs](https://docs.astro.build/zh-cn/getting-started/).
 
-<a href="https://sayhub.me#gh-light-mode-only">
+<a href="https://liruifengv.com#gh-light-mode-only">
   <img src="https://skillicons.dev/icons?i=js,ts,rust,go,deno,nodejs,react,vue,astro&theme=light" />
 </a>
 
-<a href="https://sayhub.me#gh-dark-mode-only">
+<a href="https://liruifengv.com#gh-dark-mode-only">
   <img src="https://skillicons.dev/icons?i=js,ts,rust,go,deno,nodejs,react,vue,astro&theme=dark" />
 </a>
 
