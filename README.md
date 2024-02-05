@@ -13,7 +13,7 @@
 
 | Platform                                       | Wechat                                              |
 | ---------------------------------------------- | ------------------------------------------------- |
-| <ul> <li> [liruifengv.com](https://liruifengv.com)</li> <li> [知乎](https://www.zhihu.com/people/liruifengv) </li><li> [掘金](https://juejin.cn/user/237150239994471) </li> <li> [Twitter / X](https://twitter.com/liruifengv)</li> </ul>    |  ![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)   |
+| <ul> <li> [liruifengv.com](https://liruifengv.com)</li> <li> [Twitter / X](https://twitter.com/liruifengv)</li> <li> [知乎](https://www.zhihu.com/people/liruifengv) </li><li> [掘金](https://juejin.cn/user/237150239994471) </li>  </ul>    |  ![My WeChat qrCode](https://bucket.liruifengv.com/qrcode.png)   |
 
 
 ### 🎖 Badges
