@@ -25,10 +25,10 @@
   <img src="https://astro.badg.es/v2/contributor/liruifengv.svg" alt="@liruifengv Astro contributions" width="320" height="195">
 </a>
 <a href="https://github.com/liruifengv#gh-dark-mode-only">
-  <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973#gh-dark-mode-only" />
+  <img src="https://github-readme-stats-five-chi-38.vercel.app/api?username=liruifengv&show_icons=true&theme=vue-dark&border_color=42b973&count_private=true#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/liruifengv#gh-light-mode-only">
-  <img src="https://github-readme-stats-one-mu-82.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff#gh-light-mode-only" />
+  <img src="https://github-readme-stats-five-chi-38.vercel.app/api?username=liruifengv&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true#gh-light-mode-only" />
 </a>
 
 ### 🎬 Profile Counter
